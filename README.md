@@ -1,4 +1,5 @@
 [![npm version](https://badge.fury.io/js/subscriptions-transport-ws.svg)](https://badge.fury.io/js/subscriptions-transport-ws) [![GitHub license](https://img.shields.io/github/license/apollostack/subscriptions-transport-ws.svg)](https://github.com/apollostack/subscriptions-transport-ws/blob/license/LICENSE)
+[![Run on Repl.it](https://repl.it/badge/github/apollographql/subscriptions-transport-ws)](https://repl.it/github/apollographql/subscriptions-transport-ws)
 
 # subscriptions-transport-ws
 
